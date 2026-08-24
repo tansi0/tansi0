@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**tansi0/tansi0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm Chukwubuonyeoma, a **Cybersecurity Analyst** living in **Dublin, Ireland 🇮🇪**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about securing systems, network defence, and building things that actually work. Currently looking for **SOC Analyst** and **Cybersecurity Analyst** roles.
+
+---
+
+## Focus areas
+
+- Security Operations & Incident Response
+- Cloud Security & Infrastructure Hardening
+- Network Defence & Traffic Analysis
+- Vulnerability Assessment & Penetration Testing
+---
+
+## How to reach me
+
+- 📧 Email: onyeomaajufo@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/chukwubuonyeoma-ajufo](https://linkedin.com/in/chukwubuonyeoma-ajufo-807a2620b)
+
+---
