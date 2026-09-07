@@ -18,6 +18,6 @@ I'm passionate about securing systems, network defence, and building things that
 
 ## How to reach me
 
-- 📧 Email: onyeomaajufo@gmail.com
+- 📧 Email: tansiajufo@gmail.com
 - 💼 LinkedIn: [Chukwubuonyeoma Ajufo](https://linkedin.com/in/chukwubuonyeoma-ajufo-807a2620b)
 ---
